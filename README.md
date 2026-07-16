@@ -120,3 +120,7 @@
 56 - Todas las Características de RAD Studio 10.3 Rio<br>
 57 - 10.3: Nuevo modelo de permisos y controles nativos para Android<br>
 58 - 10.3: Novedades en FireDAC, REST, Cloud y RAD Server<br>
+
+---
+
+> **Created by Antono**
