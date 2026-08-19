@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/DelphiAcademy"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/DelphiAcademy-blue?logo=github"></a>
   <a href="https://antono4.github.io/DelphiAcademy/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-3797-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-19 15:41:00 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-08-19 16:37:37 WIB-lightgrey">
 </p>
 
 ---
@@ -64,4 +64,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-08-19 15:41:00 WIB** oleh GitHub Actions .</sub>
+<sub>README ini di-generate otomatis pada **2026-08-19 16:37:37 WIB** oleh GitHub Actions .</sub>
