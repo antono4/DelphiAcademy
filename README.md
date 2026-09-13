@@ -1,2 +1,26 @@
-Last updated: 2026-09-13 21:17:12 WIB
-Last updated: 2026-09-13 21:21:10 WIB
+# DelphiAcademy
+
+
+
+## 📋 Overview
+
+This repository contains **3801 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-13 21:24:55 WIB*
